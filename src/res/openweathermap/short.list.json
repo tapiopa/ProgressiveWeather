@@ -1,0 +1,19 @@
+[{
+    "key": 658226,
+    "value": "Helsinki",
+    "country": "FI",
+    "coord": {
+        "lon": 24.93417,
+        "lat": 60.17556
+    }
+},
+    {
+        "key": 643493,
+        "value": "Oulu",
+        "country": "FI",
+        "coord": {
+            "lon": 25.5,
+            "lat": 65
+        }
+    }
+]
